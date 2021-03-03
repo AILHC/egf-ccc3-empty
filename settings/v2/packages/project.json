@@ -3,5 +3,11 @@
   "script": {
     "useDefineForClassFields": false,
     "allowDeclareFields": false
-  }
+  },
+  "layer": [
+    {
+      "name": "canvas_19",
+      "value": 524288
+    }
+  ]
 }

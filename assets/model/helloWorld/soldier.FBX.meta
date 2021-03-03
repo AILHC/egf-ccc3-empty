@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.2",
+  "ver": "2.0.10",
   "importer": "fbx",
   "imported": true,
   "uuid": "e3553cad-2f15-4293-859a-8f43c780f289",
@@ -237,7 +237,7 @@
       "displayName": "",
       "id": "d252c",
       "name": "soldier.prefab",
-      "ver": "1.0.11",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"

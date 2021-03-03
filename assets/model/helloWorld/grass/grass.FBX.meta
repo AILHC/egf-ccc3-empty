@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.2",
+  "ver": "2.0.10",
   "importer": "fbx",
   "imported": true,
   "uuid": "aade09ee-8f9d-413c-a9e8-8c686ea5e160",
@@ -111,7 +111,7 @@
       "displayName": "",
       "id": "3022b",
       "name": "grass.prefab",
-      "ver": "1.0.11",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"

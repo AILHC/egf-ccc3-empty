@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.2",
+  "ver": "2.0.10",
   "importer": "fbx",
   "imported": true,
   "uuid": "929e58ce-66a4-4e04-9036-4244456a1220",
@@ -69,7 +69,7 @@
       "displayName": "",
       "id": "bfc57",
       "name": "hdcSky.prefab",
-      "ver": "1.0.11",
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"
